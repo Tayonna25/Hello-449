@@ -24,6 +24,10 @@ img {
     border-radius: 20px;
     margin-top: -50px;
     padding: 20px;
+    height: 200px;
+    display: flex;
+    align-items: center;
+    justify-content: center
 }
 
 .flashy {
