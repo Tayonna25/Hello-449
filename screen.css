@@ -13,12 +13,14 @@ h1 {
 h2 {
     font-family: Arial, Helvetica, sans-serif;
     font-size: 30px;
+    font-weight: lighter;
 }
 
 h3 {
 
     font-family: Arial, Helvetica, sans-serif;
     font-size: 30px;
+    font-weight: lighter;
 }
 img {
     position: center;
@@ -27,6 +29,13 @@ img {
     width: 600px;
     height: 250px
 }
+
+.cable {
+display: grid;
+grid-template-columns: 1fr 1fr;
+grid-gap: 20px;
+}
+
 .stinky {
     border-radius: 20px;
     margin-top: -50px;
