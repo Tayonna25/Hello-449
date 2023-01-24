@@ -18,6 +18,7 @@ h3 {
 }
 img {
     width: 50%;
+    position: center;
 }
 .stinky {
     border-radius: 20px;
