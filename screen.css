@@ -22,7 +22,9 @@ h3 {
 img {
     width: 50%;
     position: center;
-    border-radius: 70%;
+    border-radius: 25px;
+    padding: 20px;
+    height: 200px;
 }
 .stinky {
     border-radius: 20px;
