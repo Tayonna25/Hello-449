@@ -24,13 +24,13 @@ img {
     border-radius: 20px;
     margin-top: -50px;
     padding: 20px;
+    text-align: center;
 }
 
 .flashy {
     background-color: rgb(211, 208, 208);
     padding: 20px;
     border-radius: 20px;
-    text-align: center;
 }
 
 
