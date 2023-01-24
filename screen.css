@@ -2,6 +2,11 @@ header {
     top: 0;
 }
 
+.stinky {
+    padding: 20px;
+    border-radius: 20px;
+}
+
 article:nth-last-of-type(2) {
     flex: 1;
 
