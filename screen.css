@@ -17,14 +17,14 @@ article:nth-of-type(3) {
 }
 
 .flashy {
-    background-color: lightgrey;
+    background-color: rgb(211, 208, 208);
     padding: 20px;
     border-radius: 20px;
 }
 
 
 .her {
-    background-color: lightgrey;
+    background-color: rgb(211, 208, 208);
     padding: 20px;
     border-radius: 20px;
 }
