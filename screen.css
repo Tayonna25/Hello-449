@@ -5,18 +5,9 @@ img {
     width: 100%;
 }
 .stinky {
-    border-radius: 50%;
+    border-radius: 20px;
     margin-top: -50px;
     padding: 20px;
-}
-
-article:nth-last-of-type(2) {
-    flex: 1;
-
-}
-
-article:nth-of-type(3) {
-    flex: 2;
 }
 
 .flashy {
