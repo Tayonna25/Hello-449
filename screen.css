@@ -1,0 +1,12 @@
+header {
+    top: 0;
+}
+
+article:nth-last-of-type(2) {
+    flex: 1;
+
+}
+
+article:nth-of-type(3) {
+    flex: 2;
+}
